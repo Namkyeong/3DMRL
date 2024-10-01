@@ -10,3 +10,13 @@ Moreover, fine-grained interaction between molecules is learned through force pr
 Extensive experiments on various tasks using real-world datasets, including **out-of-distribution** and **extrapolation** scenarios, demonstrate the effectiveness of 3DMRL, showing up to a 24.93\% improvement in performance across **40 tasks**.
 
 <img src="assets/mol_interaction.png" width="500px"></img> 
+
+
+### Requirements
+- Python 3.7
+- Pytorch 1.9.1
+- RDKIT 2020.09.1
+- Pytorch-Geometric 2.0.3
+
+### How to run the code?
+Please refer to the README.md file in each task folder for further instructions and details on how to run the code.
