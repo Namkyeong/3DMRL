@@ -1,0 +1,2 @@
+cd ../
+python pretrain.py --pretrainer 3DMRL --cut_off 5.0 --batch_size 48 --dataset "DDI" --lr 0.0005 --device 0 --alpha 0.1 --only_solute True --no_node_feature --use_subset --ratio 0.4 --rotation --radius --sample 5 --epochs 100 --save_freq 20 --save_checkpoints True --message_passing 3
