@@ -1,5 +1,5 @@
 # 3DMRL
-The official source code for **3D Interaction Geometric Pre-training for Molecular Relational Learning**.
+The official source code for [3D Interaction Geometric Pre-training for Molecular Relational Learning](https://arxiv.org/abs/2412.02957).
 
 ## Overview
 Molecular Relational Learning (MRL) is a rapidly growing field that focuses on understanding the interaction dynamics between molecules, which is crucial for applications ranging from catalyst engineering to drug discovery. 
